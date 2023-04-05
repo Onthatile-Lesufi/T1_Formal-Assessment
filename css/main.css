@@ -127,7 +127,7 @@ form p {
     width: 98%;
     height: 150px;
     margin-left: 1%;
-    background-image: url("../assessts/bora-bora.jpg");
+    background-image: url("../assets/bora-bora.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -137,7 +137,7 @@ form p {
     width: 98%;
     height: 150px;
     margin-left: 1%;
-    background-image: url("../assessts/pyongyang.jpg");
+    background-image: url("../assets/pyongyang.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -147,7 +147,7 @@ form p {
     width: 98%;
     height: 150px;
     margin-left: 1%;
-    background-image: url("../assessts/miami.jpg");
+    background-image: url("../assets/miami.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -157,7 +157,7 @@ form p {
     width: 98%;
     height: 150px;
     margin-left: 1%;
-    background-image: url("../assessts/paris.jpg");
+    background-image: url("../assets/paris.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
